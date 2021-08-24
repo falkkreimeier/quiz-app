@@ -1,0 +1,29 @@
+{
+  "name": "quiz-app",
+  "version": "1.0.0",
+  "description": "Quiz App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/falkkreimeier/quiz-app.git"
+  },
+  "keywords": [
+    "Quiz",
+    "question",
+    "game",
+    "App"
+  ],
+  "author": "Falk Kreimeier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/falkkreimeier/quiz-app/issues"
+  },
+  "homepage": "https://github.com/falkkreimeier/quiz-app#readme",
+  "dependencies": {
+    "vite": "^2.5.1"
+  }
+}
